@@ -1,0 +1,7 @@
+{
+  "name": "KeepMotoMovil",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
